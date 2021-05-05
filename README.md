@@ -9,5 +9,6 @@ I'd love to get more into open-source and helping other people out on their proj
 <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png">
 <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg">
 <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
+<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg">
 
 C++, CSound, Python, Javascript, HTML/CSS
