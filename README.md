@@ -1,6 +1,6 @@
 God dag! I'm Torje Markussen aka @WinglessWheel
 
-I'm a student at NTNU and I'm passionate about music technology and currently studying informatics (Computer Science). After having spent many years doing music production, I now want to get more into software development.
+I'm a student at NTNU and I'm passionate about music technology whilst currently studying informatics. After having spent many years doing music production, I now want to get into software development.
 
 I'd love to get more into open-source and helping other people out on their projects. 
 Feel free to ask me for help!
